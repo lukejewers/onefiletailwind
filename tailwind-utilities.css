@@ -162,9 +162,10 @@
 .text-lg {font-size: 1.125rem; line-height: calc(1.75 / 1.125);}
 .text-red-600 {color: oklch(0.577 0.245 27.325);}
 .text-right {text-align: right;}
-.text-sm {font-size: 0.875rem; line-height: calc(1 / 0.75);}
+.text-sm {font-size: 0.875rem; line-height: calc(1.25 / 0.875);}
 .text-white {color: rgb(255 255 255);}
 .text-xl {font-size: 1.25rem; line-height: calc(1.75 / 1.25);}
+.text-xs {font-size: 0.75rem; line-height: calc(1 / 0.75);}
 .top-0 {top: 0;}
 .tracking-tight {letter-spacing: -0.025em;}
 .tracking-tighter {letter-spacing: -0.05em;}
